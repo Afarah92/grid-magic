@@ -1,0 +1,140 @@
+.container div {
+    width: 280px;
+    height: 500px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    color: white;
+  }
+  
+  .container .item1 {
+    height: 200px;
+  }
+  .container .item4 {
+    height: 800px;
+  }
+  .container .item6 {
+    height: 600px;
+  }
+  .container .item11 {
+    height: 400px;
+  }
+  
+  .item1 {
+    background-image: url("https://images.pexels.com/photos/1149362/pexels-photo-1149362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .item2 {
+    background-image: url("https://images.pexels.com/photos/5251197/pexels-photo-5251197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .item3 {
+    background-image: url("https://images.pexels.com/photos/5211507/pexels-photo-5211507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .item4 {
+    background-image: url("https://images.pexels.com/photos/3216218/pexels-photo-3216218.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .item5 {
+    background-image: url("https://images.pexels.com/photos/40975/baby-boy-child-cuddle-40975.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .item6 {
+    background-image: url("https://images.pexels.com/photos/1004014/pexels-photo-1004014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .item7 {
+    background-image: url("https://images.pexels.com/photos/5251197/pexels-photo-5251197.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .item8 {
+    background-image: url("https://images.pexels.com/photos/1793525/pexels-photo-1793525.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .item9 {
+    background-image: url("https://images.pexels.com/photos/585560/sky-forest-clouds-black-585560.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .item10 {
+    background-image: url("https://images.pexels.com/photos/5257534/pexels-photo-5257534.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .item11 {
+    background-image: url("https://images.pexels.com/photos/3013982/pexels-photo-3013982.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .item12 {
+    background-image: url("https://images.pexels.com/photos/4492677/pexels-photo-4492677.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  .item13 {
+    background-image: url("https://images.pexels.com/photos/4177520/pexels-photo-4177520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  
+  
+  
+  .item14 {
+    background-image:url("https://images.pexels.com/photos/4080806/pexels-photo-4080806.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+    background-position:cover;
+    background-size:cover;
+      background-repeat: no-repeat;
+  
+  }
+  
+  .item15 {
+    background-image:url("https://images.pexels.com/photos/4615136/pexels-photo-4615136.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+    background-position:cover;
+    background-size:cover;
+    background-repeat: no-repeat;
+  
+  }
+  
+  
+  
+  
+  
+  
+  
+  
